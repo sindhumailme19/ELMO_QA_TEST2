@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3417" started-at="2019-08-03T15:06:14Z" finished-at="2019-08-03T15:06:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3417" started-at="2019-08-03T15:06:14Z" finished-at="2019-08-03T15:06:17Z">
+      <class name="com.qa.Test.GetAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.Test.GetAPITest@1d7acb34]" name="setUp" is-config="true" duration-ms="8" started-at="2019-08-03T15:06:14Z" finished-at="2019-08-03T15:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getApiByLonandLat()[pri:0, instance:com.qa.Test.GetAPITest@1d7acb34]" name="getApiByLonandLat" duration-ms="1808" started-at="2019-08-03T15:06:14Z" finished-at="2019-08-03T15:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getApiByLonandLat -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.Test.GetAPITest@1d7acb34]" name="setUp" is-config="true" duration-ms="0" started-at="2019-08-03T15:06:16Z" finished-at="2019-08-03T15:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getApiByPostalCode()[pri:0, instance:com.qa.Test.GetAPITest@1d7acb34]" name="getApiByPostalCode" duration-ms="1565" started-at="2019-08-03T15:06:16Z" finished-at="2019-08-03T15:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getApiByPostalCode -->
+      </class> <!-- com.qa.Test.GetAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
